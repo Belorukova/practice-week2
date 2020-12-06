@@ -1,0 +1,18 @@
+{
+	"headers": {
+		"/*": {
+		"X-Author": "Beloruuukova99",
+		"Access-Control-Allow-Origin": "*"
+		},
+		"/login/": {
+		"X-Author": "Beloruuukova99",
+		"Access-Control-Allow-Origin": "*",
+		"Content-Type": "text/plain; charset=UTF-8"
+		},
+		"/sample/": {
+		"X-Author": "Beloruuukova99",
+		"Access-Control-Allow-Origin": "*",
+		"Content-Type": "text/plain"
+		}
+	}
+}
